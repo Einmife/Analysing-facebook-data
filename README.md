@@ -1,2 +1,2 @@
 # Analysing-facebook-data
-I saw this tutorial on social media data analysis and found it really interesting. So, I decided to also analyse my Facebook usage since I joined in 2010
+I analysed by facebook usage since I joined the sited in 2010 focusing on my posts, looking for changes in the frequency of my posts and how often I posted. 
